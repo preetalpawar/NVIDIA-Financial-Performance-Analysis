@@ -1,104 +1,102 @@
-NVIDIA Financial Performance Analysis
+# NVIDIA Financial Performance Analysis
 
-📊 Project Overview
+## 📊 Project Overview
 
-This project analyzes NVIDIA's financial performance across FY2024–FY2026 using Microsoft Excel and Power BI.
+A financial performance analysis of **NVIDIA across FY2024–FY2026** using **Microsoft Excel and Power BI**.
 
-The objective was to analyze the company's financial statements, calculate key financial metrics, identify performance trends, and present the findings through interactive dashboards.
+The project analyzes the company's financial statements, evaluates key financial KPIs and trends, and converts the findings into interactive, management-friendly dashboards.
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
-- Microsoft Excel
-- Microsoft Power BI
-- GitHub
+* Microsoft Excel
+* Microsoft Power BI
+* GitHub
 
-📁 Project Work
+## 🔍 Analysis Performed
 
-1. Financial Statement Analysis
+### Financial Statement Analysis
 
-The project includes analysis of:
+Analyzed NVIDIA's:
 
-- Income Statement
-- Balance Sheet
-- Cash Flow Statement
+* Income Statement
+* Balance Sheet
+* Cash Flow Statement
 
-The financial statements were analyzed across FY2024, FY2025, and FY2026 to understand changes in revenue, profitability, financial position, and cash flow.
+across FY2024–FY2026 to evaluate **revenue growth, profitability, financial position, and cash generation**.
 
-2. Excel Analysis & Dashboard
+### Excel Analysis & Dashboard
 
-The Excel portion includes:
+Built an Excel-based financial analysis covering:
 
-- Raw financial statement data
-- Income Statement analysis
-- Balance Sheet analysis
-- Cash Flow analysis
-- Key financial calculations
-- Financial performance dashboard
+* Financial statement data
+* Year-over-year performance analysis
+* Key financial calculations
+* KPI analysis
+* Financial performance dashboard
 
-3. Power BI Dashboard
+### Power BI Dashboard
 
-The Power BI report contains two main pages:
+Developed an interactive Power BI report covering:
 
-Financial Performance
+**Financial Performance**
 
-- Revenue
-- Gross Profit
-- Operating Income
-- Net Income
-- Operating Cash Flow
+* Revenue
+* Gross Profit
+* Operating Income
+* Net Income
+* Operating Cash Flow
 
-Financial Trends
+**Financial Trends**
 
-- Revenue trend
-- Gross Profit trend
-- Operating Income trend
-- Net Income trend
+* Revenue growth
+* Gross Profit trend
+* Operating Income trend
+* Net Income trend
 
-The dashboard provides a visual view of NVIDIA's financial performance and changes over the three-year period.
+## 📈 FY2026 Key Metrics
 
-📈 Key FY2026 Metrics
+| Metric              |   FY2026 |
+| ------------------- | -------: |
+| Revenue             |    $216B |
+| Gross Profit        | $153.46B |
+| Operating Income    | $130.39B |
+| Net Income          | $120.07B |
+| Operating Cash Flow | $102.72B |
 
-Metric| FY2026
-Revenue| 216K
-Gross Profit| 153.46K
-Operating Income| 130.39K
-Net Income| 120.07K
-Operating Cash Flow| 102.72K
+## 💡 Key Takeaways
 
-🎯 Skills Demonstrated
+* NVIDIA demonstrated significant revenue and profitability growth across FY2024–FY2026.
+* Strong operating income and net income indicate substantial improvement in profitability.
+* Operating cash flow remained strong, highlighting significant cash-generation capability.
+* The three-year trend analysis provides a clear view of NVIDIA's financial growth trajectory.
 
-- Financial statement analysis
-- Excel financial modelling
-- KPI analysis
-- Data transformation
-- Data visualization
-- Power BI dashboard development
-- Trend analysis
-- Financial performance interpretation
-- GitHub project documentation
+## 🎯 Skills Demonstrated
 
-📸 Dashboard Preview
+**Financial Statement Analysis | Financial Modelling | Excel | Power BI | KPI Analysis | Trend Analysis | Data Visualization | Financial Performance Interpretation | Management Reporting**
 
-Excel Dashboard
+## 📸 Dashboard Preview
 
-"Excel Dashboard" (Excel_Dashboard.png)
+### Excel Dashboard
 
-Power BI — Financial Performance
+`Excel_Dashboard.png`
 
-"Financial Performance" (Financial_Performance.png)
+### Power BI — Financial Performance
 
-Power BI — Financial Trends
+`Financial_Performance.png`
 
-"Financial Trends" (Financial_Trends.png)
+### Power BI — Financial Trends
 
-📂 Files Included
+`Financial_Trends.png`
 
-- Excel financial analysis workbook
-- Power BI dashboard file
-- Excel dashboard screenshot
-- Power BI dashboard screenshots
-- Project documentation
+## 📂 Files Included
 
-📌 Conclusion
+* Excel financial analysis workbook
+* Power BI dashboard file
+* Excel dashboard screenshot
+* Power BI dashboard screenshots
+* Project documentation
 
-This project demonstrates the use of Excel and Power BI to transform financial statement data into meaningful financial analysis, KPIs, trends, and management-friendly dashboards.
+## 🎯 Business Value
+
+This project demonstrates the ability to transform **raw financial statement data into structured financial analysis, KPIs, trends, and management-ready dashboards** using Excel and Power BI.
+
