@@ -2,9 +2,9 @@
 
 ## 📊 Project Overview
 
-A financial performance analysis of **NVIDIA across FY2024–FY2026** using **Microsoft Excel and Power BI**.
+This project analyses NVIDIA's financial performance from **FY2024 to FY2026** using **Microsoft Excel and Power BI**.
 
-The project analyzes the company's financial statements, evaluates key financial KPIs and trends, and converts the findings into interactive, management-friendly dashboards.
+The analysis focuses on the company's financial statements, key performance metrics, and three-year trends in **revenue, profitability, financial position, and cash generation**.
 
 ## 🛠️ Tools Used
 
@@ -12,31 +12,23 @@ The project analyzes the company's financial statements, evaluates key financial
 * Microsoft Power BI
 * GitHub
 
-## 🔍 Analysis Performed
+## 🔍 What I Analysed
 
-### Financial Statement Analysis
-
-Analyzed NVIDIA's:
+### Financial Statements
 
 * Income Statement
 * Balance Sheet
 * Cash Flow Statement
 
-across FY2024–FY2026 to evaluate **revenue growth, profitability, financial position, and cash generation**.
-
-### Excel Analysis & Dashboard
-
-Built an Excel-based financial analysis covering:
+### Excel Analysis
 
 * Financial statement data
-* Year-over-year performance analysis
-* Key financial calculations
+* Year-over-year comparisons
+* Financial calculations
 * KPI analysis
 * Financial performance dashboard
 
 ### Power BI Dashboard
-
-Developed an interactive Power BI report covering:
 
 **Financial Performance**
 
@@ -48,10 +40,10 @@ Developed an interactive Power BI report covering:
 
 **Financial Trends**
 
-* Revenue growth
-* Gross Profit trend
-* Operating Income trend
-* Net Income trend
+* Revenue
+* Gross Profit
+* Operating Income
+* Net Income
 
 ## 📈 FY2026 Key Metrics
 
@@ -65,10 +57,10 @@ Developed an interactive Power BI report covering:
 
 ## 💡 Key Takeaways
 
-* NVIDIA demonstrated significant revenue and profitability growth across FY2024–FY2026.
-* Strong operating income and net income indicate substantial improvement in profitability.
-* Operating cash flow remained strong, highlighting significant cash-generation capability.
-* The three-year trend analysis provides a clear view of NVIDIA's financial growth trajectory.
+* NVIDIA recorded strong growth in revenue and profitability across FY2024–FY2026.
+* Gross profit, operating income, and net income increased significantly over the three-year period.
+* Strong operating cash flow highlights NVIDIA's ability to generate substantial cash from its operations.
+* The three-year analysis provides a clear view of NVIDIA's overall financial growth.
 
 ## 🎯 Skills Demonstrated
 
@@ -98,5 +90,5 @@ Developed an interactive Power BI report covering:
 
 ## 🎯 Business Value
 
-This project demonstrates the ability to transform **raw financial statement data into structured financial analysis, KPIs, trends, and management-ready dashboards** using Excel and Power BI.
+This project demonstrates how **Excel and Power BI can be used to analyse financial data, identify performance trends, track key metrics, and present financial information clearly for management decision-making.**
 
